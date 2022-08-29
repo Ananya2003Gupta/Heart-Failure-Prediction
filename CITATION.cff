@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Heart Failure Prediction
+message: >-
+  If you use this software, please cite it using the 
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ananya
+    family-names: Gupta
+    email: ananya004btcse21@igdtuw.ac.in
+  - given-names: Astha
+    family-names: Varshney
+    email: astha119btcse21@igdtuw.ac.in
+repository-code: >-
+  https://github.com/Ananya2003Gupta/Heart-Failure-Prediction
+date-released: '2022-08-29'
